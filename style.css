@@ -10,3 +10,7 @@
   height: 100%;
 }
 
+#bamboo{
+  grid-column: 2 / 4;
+  grid-row: 3 / 4;
+}
