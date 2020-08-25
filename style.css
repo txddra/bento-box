@@ -20,3 +20,7 @@
   grid-column: 1 / 2;
   grid-row: 3 / 5;
 }
+#vase-short {
+  grid-column: 3 / 4;
+  grid-row: 1 / 3;
+}
